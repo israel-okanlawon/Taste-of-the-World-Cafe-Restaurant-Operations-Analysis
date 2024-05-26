@@ -9,9 +9,7 @@
 
 ## Project Overview
 This project aims to explore the Taste of the World Café restaurant menu and order data to understand what’s on the menu get an idea of the data that has been collected and use both data to understand how the customers are reacting to the new menu, top performing menu, sales trend of different menu items and customer behaviour. The major aim of this project is to gain insight into the sales data of Taste of the World Café to understand which menu items are doing well / not well and what the top customers seem to like best. The dataset was obtained from maven analytics playground [here](https://mavenanalytics.io/data-playground?pageSize=10&search=Restaurant%20Orders)
-
-![Local Image](top_cafe_restaurant_dashboard.png)
-
+![top_cafe_restaurant_dashboard](https://github.com/israel-okanlawon/Taste-of-the-World-Cafe-Restaurant-Operations-Analysis/assets/37417155/f3310904-06d5-4fba-8e9a-1e99cb367419)
 
 ## About Data
 
@@ -63,7 +61,7 @@ The datasets were obtained from the [here](https://mavenanalytics.io/data-playgr
 
 > 1.	Data Collection: The CSV of the dataset was obtained from here.
 > 2.    Use **Excel** to format the order_date column.
-![Local Image](order_details_screenshot.png)
+![order_details_screenshot](https://github.com/israel-okanlawon/Taste-of-the-World-Cafe-Restaurant-Operations-Analysis/assets/37417155/54dbf673-2236-497a-ba7a-7bfb70eb4738)
 > 3.	Build Database: **MySQL RDBMS** was used to create a database and table and data from the CSV file was inserted into the table.
 > 4.	There are no null values in our database as in creating the tables, we set **NOT NULL** for each field, hence null values are filtered out leaving us with 12,097 for the order_details table.
 
