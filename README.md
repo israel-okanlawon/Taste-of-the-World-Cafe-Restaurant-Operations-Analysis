@@ -63,7 +63,7 @@ The datasets were obtained from the [here](https://mavenanalytics.io/data-playgr
 > 2.    Use **Excel** to format the order_date column.
 ![order_details_screenshot](https://github.com/israel-okanlawon/Taste-of-the-World-Cafe-Restaurant-Operations-Analysis/assets/37417155/54dbf673-2236-497a-ba7a-7bfb70eb4738)
 > 3.	Build Database: **MySQL RDBMS** was used to create a database and table and data from the CSV file was inserted into the table.
-![sql_script](https://github.com/israel-okanlawon/Taste-of-the-World-Cafe-Restaurant-Operations-Analysis/assets/37417155/aed29b5a-4374-4685-a3b6-58304b68904e)
+![sql_script](https://github.com/israel-okanlawon/Taste-of-the-World-Cafe-Restaurant-Operations-Analysis/assets/37417155/3f1eed4f-85e5-499e-93a7-5eba66d69b2d)
 > 4.	There are no null values in our database as in creating the tables, we set **NOT NULL** for each field, hence null values are filtered out leaving us with 12,097 for the order_details table.
 
 2.	**Feature Engineering:** This will help use generate some new columns from existing ones.
